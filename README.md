@@ -149,11 +149,14 @@ Percentage of the requests served within a certain time (ms)
 - Transfer rate:          平均每秒传输的千字节数
 
 - Connection Times (ms) 传输时间统计
--             min最小  mean期望[+/-sd]标准差 median中位数   max最大
-- Connect:    连接时间
-- Processing: 处理时间
-- Waiting:    等待时间
-- Total:      总时间
+
+```
+            min最小  mean期望[+/-sd]标准差 median中位数   max最大
+Connect:    连接时间
+Processing: 处理时间
+Waiting:    等待时间
+Total:      总时间
+```
 
 - Percentage of the requests served within a certain time (ms) 一定时间内服务了的请求数所占的百分比
 
